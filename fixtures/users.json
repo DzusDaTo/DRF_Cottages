@@ -1,0 +1,78 @@
+[
+  {
+    "model": "users.user",
+    "pk": "345778b7-4d20-4f6d-b81d-69c6f2e670d0",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "georgeduday@mail.ru",
+      "phone_number": "9897437383",
+      "first_name": "George",
+      "last_name": "Dudaev",
+      "photo": "",
+      "is_active": true,
+      "is_rentier": true,
+      "is_staff": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "b5db6af5-f324-47ba-b43f-3084ece9dce4",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$szpDrif9DKOOjGOe62HAkF$aLThFbbFiPgweb1TJ9zlKE2uT68gliM7KZNSWjD0L4w=",
+      "last_login": null,
+      "is_superuser": true,
+      "email": "admin@admin.com",
+      "phone_number": null,
+      "first_name": "admin",
+      "last_name": "adminov",
+      "photo": "",
+      "is_active": true,
+      "is_rentier": false,
+      "is_staff": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "c4eb7f56-9557-47bb-b0e6-51f4f4f018d1",
+    "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "test@test.com",
+      "phone_number": "9188888888",
+      "first_name": "Test",
+      "last_name": "Testov",
+      "photo": "",
+      "is_active": true,
+      "is_rentier": true,
+      "is_staff": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "f5bcd2b5-8058-4526-9103-33446e609f88",
+    "fields": {
+      "password": "!Dg67GybtFNowVfhV9rlspNdNZ7Tjcnlejpfh4D7H",
+      "last_login": "2024-06-01T08:14:41.718Z",
+      "is_superuser": false,
+      "email": "georgeduday@gmail.com",
+      "phone_number": null,
+      "first_name": "Григорий",
+      "last_name": "Измайлов",
+      "photo": "",
+      "is_active": true,
+      "is_rentier": false,
+      "is_staff": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

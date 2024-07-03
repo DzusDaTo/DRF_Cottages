@@ -1,0 +1,58 @@
+[
+  {
+    "model": "relations.usercottagelike",
+    "pk": "41f6d980-cf6e-4e42-b656-d601c0ca4cdf",
+    "fields": {
+      "cottage": "ed3db795-913e-4e51-80b5-3949f0172caf",
+      "user": "c4eb7f56-9557-47bb-b0e6-51f4f4f018d1"
+    }
+  },
+  {
+    "model": "relations.usercottagelike",
+    "pk": "4f784218-5208-4879-8d86-95466859619a",
+    "fields": {
+      "cottage": "ed3db795-913e-4e51-80b5-3949f0172caf",
+      "user": "c4eb7f56-9557-47bb-b0e6-51f4f4f018d1"
+    }
+  },
+  {
+    "model": "relations.usercottagelike",
+    "pk": "78f0fc05-f5e7-44bb-aee9-23a1c8a41752",
+    "fields": {
+      "cottage": "da8a0c05-3be4-4a2f-9c8d-0935a73f7c53",
+      "user": "345778b7-4d20-4f6d-b81d-69c6f2e670d0"
+    }
+  },
+  {
+    "model": "relations.usercottagelike",
+    "pk": "88990615-fcca-4091-8b20-34f467ce5fcf",
+    "fields": {
+      "cottage": "ed3db795-913e-4e51-80b5-3949f0172caf",
+      "user": "345778b7-4d20-4f6d-b81d-69c6f2e670d0"
+    }
+  },
+  {
+    "model": "relations.usercottagelike",
+    "pk": "86dc0bf8-4b21-458a-a89b-56ec2218830b",
+    "fields": {
+      "cottage": "86dc0bf8-4b21-458a-a89b-56ec2218830b",
+      "user": "c4eb7f56-9557-47bb-b0e6-51f4f4f018d1"
+    }
+  },
+  {
+    "model": "relations.usercottagelike",
+    "pk": "877ff1f6-8838-40ff-ae3a-6ea423153001",
+    "fields": {
+      "cottage": "da8a0c05-3be4-4a2f-9c8d-0935a73f7c53",
+      "user": "345778b7-4d20-4f6d-b81d-69c6f2e670d0"
+    }
+  },
+  {
+    "model": "relations.usercottagelike",
+    "pk": "e839f4cd-7a0f-4b08-b52d-8bda929bd408",
+    "fields": {
+      "cottage": "9bc44801-3745-4f93-b2f3-4954bae5bf01",
+      "user": "c4eb7f56-9557-47bb-b0e6-51f4f4f018d1"
+    }
+  }
+]
